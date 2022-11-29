@@ -1,0 +1,10 @@
+D:\WebSocket\ZoomComply.WcfWebSocketListener\bin\Debug\OsuExam.WcfWebSocketListener.exe.config
+D:\WebSocket\ZoomComply.WcfWebSocketListener\bin\Debug\OsuExam.WcfWebSocketListener.exe
+D:\WebSocket\ZoomComply.WcfWebSocketListener\bin\Debug\OsuExam.WcfWebSocketListener.pdb
+D:\WebSocket\ZoomComply.WcfWebSocketListener\bin\Debug\Microsoft.WebSockets.dll
+D:\WebSocket\ZoomComply.WcfWebSocketListener\obj\Debug\WcfWebSocketListener.csproj.AssemblyReference.cache
+D:\WebSocket\ZoomComply.WcfWebSocketListener\obj\Debug\WcfWebSocketListener.csproj.SuggestedBindingRedirects.cache
+D:\WebSocket\ZoomComply.WcfWebSocketListener\obj\Debug\WcfWebSocketListener.csproj.CoreCompileInputs.cache
+D:\WebSocket\ZoomComply.WcfWebSocketListener\obj\Debug\WcfWebSocketListener.csproj.CopyComplete
+D:\WebSocket\ZoomComply.WcfWebSocketListener\obj\Debug\OsuExam.WcfWebSocketListener.exe
+D:\WebSocket\ZoomComply.WcfWebSocketListener\obj\Debug\OsuExam.WcfWebSocketListener.pdb
